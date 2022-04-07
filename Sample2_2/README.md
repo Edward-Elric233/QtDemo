@@ -6,7 +6,7 @@
 
 字体通过复选框进行选择，颜色通过单选框进行选择
 
-<img src="/home/edward/.config/Typora/typora-user-images/image-20220407164335608.png" alt="image-20220407164335608" style="zoom:70%;" />
+<img src="./2022-04-07 16-43-33屏幕截图.png" style="zoom:67%;" />
 
 ## 经验总结
 
